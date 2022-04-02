@@ -9,11 +9,11 @@
         <!-- Aqui é feita a estilização em CSS -->
         <style>
             body{
-                background-color: rgb(238, 238, 238);
+                background-color: rgb(255, 255, 255);
             }
 
             #titulo-do-site{
-                color: rgb(112, 0, 0);
+                color: rgb(0, 1, 87);
                 font-family: Montserrat,Arial, Helvetica, sans-serif;
                 text-align: center;
             }
@@ -21,12 +21,26 @@
                 color: rgb(112, 0, 0);
                 text-align: center;
                 font-family: Arial, Helvetica, sans-serif;
+                letter-spacing: -1px;
             }
             .picture{
                 border-radius: 100%;
             }
             .picture2{
                 border-radius: 10%;
+            }
+
+            .button-top-testemonial{
+                margin: -5px;
+                color: white;
+                text-decoration: none;
+                padding: 5px;
+                background-color: red;
+                border-radius: 5px;
+            }
+
+            .button-top-testemonial:hover{
+                background-color: rgb(133, 0, 0);
             }
 
             .testemonial-matheus{
@@ -37,8 +51,37 @@
                 letter-spacing: -1px;
             }
 
-            button{
+            .button-top-animals{
+                margin: 120px;
+                color: white;
+                text-decoration: none;
+                padding: 5px;
+                background-color: red;
+                border-radius: 5px;
+            }
 
+            .button-curriculo{
+                color: rgb(255, 255, 255);
+                background-color: green;
+                padding: 10px;
+                border-radius: 4px;
+                text-decoration: none;
+
+            }
+            
+            .information{
+                font-family: montserrat;
+                font-size: 12px;
+                font-weight: 400;
+                line-height: 20px;
+            }
+
+            .color-label{
+                color:rgb(0, 3, 185)
+            }
+
+            .button-curriculo:hover{
+                background-color: rgb(0, 82, 0);
             }
         </style>
         
@@ -47,21 +90,23 @@
     <body>
         <h1 id="titulo-do-site">Perfil do estudante Matheus Queiroz</h1>
         <h3> Esta página mostra o perfil do aprendiz web da TryBe</h3>
-        <img src="foto-matheus.jpg" width="150px" alt="Foto de Matheus" title="Imagem de Matheus" class="picture"><br>
-        <a href="#depoimento">Seu depoimento</a><br>
-        <a href="#section-animals">Animais favoritos</a>
-        <p><strong>Nome completo:</strong> Matheus Souza Queiroz</p>
-        <p><strong>Apelido:</strong> Giga</p>
-        <p><strong>E-mail:</strong> <em>matheus_giga@hotmail.com</em></p>
-        <p><strong>Data de nascimento:</strong> 13/05/1992</p>
-        <p><strong>Nacionalilade:</strong><span>Brasil</span></p>
-        <p><strong>Naturalilade:</strong> Itapetinga</p>
-        <p><strong>Endereço:</strong> Av. Jesiel Norberto, nº 1991, Bairro Candeias, Cidade Vitória da Conquista-Ba</p>
-        <p><strong>Telefone:</strong> (77) 9 8833-4370</p>
+        <div class="section-information">
+            <a href="https://www.instagram.com/matheusgiga/"><img src="foto-matheus.jpg" width="150px" alt="Foto de Matheus" title="Imagem de Matheus" class="picture"></a><br>
+            <a class="button-top-testemonial" href="#depoimento">Seu depoimento</a><br>
+            <a class="button-top-animals"href="#section-animals">Animais favoritos</a>
+            <p class="information"><span class="color-label">Nome completo:</span> Matheus Souza Queiroz</p>
+            <p class="information"><span class="color-label">Apelido:</span> Giga</p>
+            <p class="information"><span class="color-label">E-mail:</span> <em>matheus_giga@hotmail.com</em></p>
+            <p class="information"><span class="color-label">Data de nascimento:</span> 13/05/1992</p>
+            <p class="information"><span class="color-label">Nacionalilade:</span> Brasil</p>
+            <p class="information"><span class="color-label">Naturalilade:</span> Itapetinga</p>
+            <p class="information"><span class="color-label">Endereço:</span> Av. Jesiel Norberto, nº 1991, Bairro Candeias<br>Cidade Vitória da Conquista-Ba</p>
+            <p class="information">Telefone: (77) 9 8833-4370</p>
+        </div>
         <br>
-        <p><strong>Acessar currículo =></strong> <a href="Currículo Matheus Queiroz-atualizado.pdf">Clique aqui</a></p>
+        <p><strong>Acessar currículo =></strong> <a class="button-curriculo" href="Currículo Matheus Queiroz-atualizado.pdf">Clique aqui</a></p>
         <br>
-        <p><strong>Perfil no Instagram:</strong> <a href="https://www.instagram.com/matheusgiga/" target="_blank">Instagram de Matheus</a></p>
+        <p><strong>Perfil no Instagram:</strong><a href="https://www.instagram.com/matheusgiga/" target="_blank">Instagram de Matheus</a></p>
         <p><strong>Perfil no Linkedin:</strong> <a href="https://www.linkedin.com/in/matheus-queiroz-80b87b45/" target="_blank">Linkedin de Matheus</a></p>
         <br>
         Sites favoritos:
