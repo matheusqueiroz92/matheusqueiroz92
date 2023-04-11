@@ -17,14 +17,16 @@
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img  align="center" alt="Matheus-Redux" height="30" width="40" src="https://skillicons.dev/icons?i=redux" />
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Matheus-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Matheus-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img align="center" alt="Matheus-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img  align="center" alt="Matheus-Linux" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" />
   <img  align="center" alt="Matheus-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img  align="center" alt="Matheus-WordPress" height="30" width="40" src="https://skillicons.dev/icons?i=wordpress" />
   <img  align="center" alt="Matheus-Linux" height="30" width="40" src="https://skillicons.dev/icons?i=linux" />
+  <img  align="center" alt="Matheus-Arduino" height="30" width="40" src="https://skillicons.dev/icons?i=arduino" />
           
   
   
