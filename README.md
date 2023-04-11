@@ -23,8 +23,8 @@
   <img align="center" alt="Matheus-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="center" alt="Matheus-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img  align="center" alt="Matheus-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img  align="center" alt="Matheus-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
-  <img  align="center" alt="Matheus-WordPress" height="30" width="40" src="https://skillicons.dev/icons?i=linux" />
+  <img  align="center" alt="Matheus-WordPress" height="30" width="40" src="https://skillicons.dev/icons?i=wordpress" />
+  <img  align="center" alt="Matheus-Linux" height="30" width="40" src="https://skillicons.dev/icons?i=linux" />
           
   
   
