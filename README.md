@@ -20,10 +20,12 @@
   <img  align="center" alt="Matheus-Redux" height="30" width="40" src="https://skillicons.dev/icons?i=redux" />
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img  align="center" alt="Matheus-NextJs" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs" />
   <img align="center" alt="Matheus-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Matheus-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img  align="center" alt="Matheus-MySQL" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" />
-  <img  align="center" alt="Matheus-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img  align="center" alt="Matheus-MongoDB" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb" />
+  <img  align="center" alt="Matheus-VSCode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode" />
   <img  align="center" alt="Matheus-Sequelize" height="30" width="40" src="https://skillicons.dev/icons?i=sequelize" />
   <img  align="center" alt="Matheus-Git" height="30" width="40" src="https://skillicons.dev/icons?i=git" />
   <img  align="center" alt="Matheus-GitHub" height="30" width="40" src="https://skillicons.dev/icons?i=github" />
