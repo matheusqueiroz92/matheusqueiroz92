@@ -19,26 +19,22 @@
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img  align="center" alt="Matheus-Redux" height="30" width="40" src="https://skillicons.dev/icons?i=redux" />
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Matheus-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img  align="center" alt="Matheus-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img  align="center" alt="Matheus-NextJs" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs" />
-  <img align="center" alt="Matheus-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="Matheus-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img  align="center" alt="Matheus-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img  align="center" alt="Matheus-Docker" height="30" width="40" src="https://skillicons.dev/icons?i=docker" />
   <img  align="center" alt="Matheus-MySQL" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" />
   <img  align="center" alt="Matheus-MongoDB" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb" />
-  <img  align="center" alt="Matheus-VSCode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode" />
   <img  align="center" alt="Matheus-Sequelize" height="30" width="40" src="https://skillicons.dev/icons?i=sequelize" />
+  <img  align="center" alt="Matheus-Express" height="30" width="40" src="https://skillicons.dev/icons?i=express" />
+  <img  align="center" alt="Matheus-VSCode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode" />
   <img  align="center" alt="Matheus-Git" height="30" width="40" src="https://skillicons.dev/icons?i=git" />
   <img  align="center" alt="Matheus-GitHub" height="30" width="40" src="https://skillicons.dev/icons?i=github" />
   <img  align="center" alt="Matheus-WordPress" height="30" width="40" src="https://skillicons.dev/icons?i=wordpress" />
   <img  align="center" alt="Matheus-Linux" height="30" width="40" src="https://skillicons.dev/icons?i=linux" />
-  <img  align="center" alt="Matheus-Arduino" height="30" width="40" src="https://skillicons.dev/icons?i=arduino" />
-          
-  
-  
-<!--<img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg">-->
-  
+  <img  align="center" alt="Matheus-Arduino" height="30" width="40" src="https://skillicons.dev/icons?i=arduino" />          
+  <!--<img  align="center" alt="Matheus-Python" height="30" width="40" src="https://skillicons.dev/icons?i=python" />
+
 ##
   
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
