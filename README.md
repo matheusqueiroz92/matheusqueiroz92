@@ -1,8 +1,8 @@
 ## Eii! Eu sou Matheus Queiroz
 
-- Atualmente trabalho com desenvolvimento de sites
+"Resistência está em si superar e ver, no negativo, o positivo sempre da melhor forma e, sendo assim, com os erros crescer, pois no amanhã está o brilho do sol."
 
-- Estudando desenvolvimento Web FullStack
+- Atualmente trabalho com desenvolvimento de sites
 
 - Contate-me no e-mail: matheus_giga@hotmail.com
 
