@@ -13,12 +13,12 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img  align="center" alt="Matheus-JavaScript" height="30" width="40" src="https://skillicons.dev/icons?i=js" />
   <img  align="center" alt="Matheus-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" />
   <img  align="center" alt="Matheus-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" />
+  <img  align="center" alt="Matheus-JavaScript" height="30" width="40" src="https://skillicons.dev/icons?i=js" />
+  <img  align="center" alt="Matheus-TypeScript" height="30" width="40" src="https://skillicons.dev/icons?i=ts" />
   <img  align="center" alt="Matheus-React" height="30" width="40" src="https://skillicons.dev/icons?i=react" />
   <img  align="center" alt="Matheus-Redux" height="30" width="40" src="https://skillicons.dev/icons?i=redux" />
-  <img  align="center" alt="Matheus-TypeScript" height="30" width="40" src="https://skillicons.dev/icons?i=ts" />
   <img  align="center" alt="Matheus-NodeJS" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" />
   <img  align="center" alt="Matheus-NextJs" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs" />
   <img  align="center" alt="Matheus-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
