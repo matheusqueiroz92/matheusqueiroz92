@@ -1,6 +1,6 @@
-## Eii! Eu sou Matheus Queiroz
+## Ei! Eu sou Matheus Queiroz
 
-- Atualmente trabalho com desenvolvimento de sites
+- Desenvolver Fullstack
 
 - Contate-me no e-mail: matheus_giga@hotmail.com
 
