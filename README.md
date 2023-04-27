@@ -27,7 +27,7 @@
   <img  align="center" alt="Matheus-MySQL" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" />
   <img  align="center" alt="Matheus-MongoDB" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb" />
   <img  align="center" alt="Matheus-Sequelize" height="30" width="40" src="https://skillicons.dev/icons?i=sequelize" />
-  <img  align="center" alt="Matheus-VSCode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode" />
+<!--   <img  align="center" alt="Matheus-VSCode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode" /> -->
   <img  align="center" alt="Matheus-Git" height="30" width="40" src="https://skillicons.dev/icons?i=git" />
   <img  align="center" alt="Matheus-GitHub" height="30" width="40" src="https://skillicons.dev/icons?i=github" />
   <img  align="center" alt="Matheus-WordPress" height="30" width="40" src="https://skillicons.dev/icons?i=wordpress" />
