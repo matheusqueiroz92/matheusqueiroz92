@@ -21,6 +21,7 @@
   <img  align="center" alt="Matheus-Redux" height="30" width="40" src="https://skillicons.dev/icons?i=redux" />
   <img  align="center" alt="Matheus-NodeJS" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" />
   <img  align="center" alt="Matheus-NextJs" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs" />
+  <img  align="center" alt="Matheus-Python" height="30" width="40" src="https://skillicons.dev/icons?i=python" />
   <img  align="center" alt="Matheus-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img  align="center" alt="Matheus-Docker" height="30" width="40" src="https://skillicons.dev/icons?i=docker" />
   <img  align="center" alt="Matheus-MySQL" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" />
@@ -32,7 +33,6 @@
   <img  align="center" alt="Matheus-WordPress" height="30" width="40" src="https://skillicons.dev/icons?i=wordpress" />
   <img  align="center" alt="Matheus-Linux" height="30" width="40" src="https://skillicons.dev/icons?i=linux" />
   <img  align="center" alt="Matheus-Arduino" height="30" width="40" src="https://skillicons.dev/icons?i=arduino" />          
-  <!--<img  align="center" alt="Matheus-Python" height="30" width="40" src="https://skillicons.dev/icons?i=python" />-->
 </div>
   <br>
 <div align="center">
