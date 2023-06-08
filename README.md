@@ -33,8 +33,7 @@
   <img  align="center" alt="Matheus-Git" height="30" width="40" src="https://skillicons.dev/icons?i=git" />
   <img  align="center" alt="Matheus-GitHub" height="30" width="40" src="https://skillicons.dev/icons?i=github" />
   <img  align="center" alt="Matheus-WordPress" height="30" width="40" src="https://skillicons.dev/icons?i=wordpress" />
-  <img  align="center" alt="Matheus-Linux" height="30" width="40" src="https://skillicons.dev/icons?i=linux" />
-  <img  align="center" alt="Matheus-Arduino" height="30" width="40" src="https://skillicons.dev/icons?i=arduino" />          
+  <img  align="center" alt="Matheus-Linux" height="30" width="40" src="https://skillicons.dev/icons?i=linux" />      
 </div>
   <br>
 <div align="center">
