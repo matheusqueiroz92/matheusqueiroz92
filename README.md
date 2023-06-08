@@ -41,5 +41,5 @@
   <a href="https://instagram.com/matheusgiga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheus_giga@hotmail.com"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-queiroz-dev-web/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.matheusqueiroz.dev.br/" target="_blank"><img src="[https://img.shields.io/badge/-Site%20de%20Portf%C3%B3lio-%230077B5?style=for-the-badge-orange](https://img.shields.io/badge/-Portfolio-%FF5A00?style=for-the-badge&logo=microsoftacademic&logoColor=white)" target="_blank"></a>
+  <a href="https://www.matheusqueiroz.dev.br/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%FF5A00?style=for-the-badge&logo=microsoftacademic&logoColor=white" target="_blank"></a>
 </div>
