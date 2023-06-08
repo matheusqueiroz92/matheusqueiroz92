@@ -1,8 +1,10 @@
 ## Ei! Eu sou Matheus Queiroz
 
-- Desenvolver Fullstack
+- Desenvolver Web Fullstack
 
 - Contate-me no e-mail: matheus_giga@hotmail.com
+
+- Visite meu site de Portifólio: https://www.matheusdev.com.br/
 
 "Resistência está em si superar e ver, no negativo, o positivo sempre da melhor forma e, sendo assim, com os erros crescer, pois no amanhã está o brilho do sol."
 
