@@ -4,7 +4,7 @@
 
 - Contate-me no e-mail: matheus_giga@hotmail.com
 
-- Visite meu site de Portifólio: https://www.matheusqueiroz.dev.br/
+- Visite meu site de Portifólio: https://matheusqueiroz.dev.br/
 
 "Resistência está em si superar e ver, no negativo, o positivo sempre da melhor forma e, sendo assim, com os erros crescer, pois no amanhã está o brilho do sol."
 
