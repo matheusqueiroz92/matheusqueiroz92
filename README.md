@@ -11,10 +11,10 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 
 ### 🎓 Formação
 
-Engenharia da Computação
-Especialização em Engenharia de Software
-Desenvolvimento Web Full Stack (Trybe)
-Residência em Software - Ciência de Dados (Em andamento)
+- Engenharia da Computação
+- Especialização em Engenharia de Software
+- Desenvolvimento Web Full Stack (Trybe)
+- Residência em Software - Ciência de Dados (Em andamento)
 
 
 ## Tecnologias & Ferramentas 🛠️
