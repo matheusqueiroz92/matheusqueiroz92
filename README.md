@@ -55,12 +55,12 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 
 ## Serviços 💼
 
-Desenvolvimento de Sites e Aplicações Web
-Consultoria em Tecnologia
-Desenvolvimento Full Stack
-Análise de Dados
-Marketing Digital
-Pesquisas e Análises
+- Desenvolvimento de Sites e Aplicações Web
+- Consultoria em Tecnologia
+- Desenvolvimento Full Stack
+- Análise de Dados
+- Marketing Digital
+- Pesquisas e Análises
 
 
 ## GitHub Stats 📊
