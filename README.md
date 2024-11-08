@@ -46,6 +46,13 @@ Pesquisas e Análises
 
 Compartilho com vocês uma frase que me marca: "Resistência está em si superar e ver, no negativo, o positivo sempre da melhor forma e, sendo assim, com os erros crescer, pois no amanhã está o brilho do sol."
 
+Contato 📫
+
+📧 Email: matheus_giga@hotmail.com; matheusqueiroz@azworkcenter.com.br
+💼 LinkedIn: linkedin.com/in/matheus-queiroz-dev-web/
+🌐 Site: matheusqueiroz.dev.br
+📱 WhatsApp: (77) 98125-2277
+
 <div align="center">
   <a href="https://github.com/matheusqueiroz92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusqueiroz92&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
