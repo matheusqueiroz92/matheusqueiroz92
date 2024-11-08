@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-queiroz-dev-web)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox-browser&logoColor=white)](https://www.matheusqueiroz.dev.br)
+[![E-mail](https://img.shields.io/badge/Email-76BB21?style=flat&logo=fmailboxdotorg&logoColor=white)](https://www.matheusqueiroz.dev.br)
 
 ## Sobre mim 🚀
 
