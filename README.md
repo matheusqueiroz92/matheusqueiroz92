@@ -69,7 +69,7 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheusqueiroz92&show_icons=true&theme=dark)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueiroz9&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusqueiroz92&layout=compact&theme=dark)
 
 
 ## Contato 📫
