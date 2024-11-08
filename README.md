@@ -11,25 +11,25 @@ Desenvolvimento Web Full Stack (Trybe)
 Residência em Software - Ciência de Dados (Em andamento)
 
 
-# Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
-## Front-end
+### Front-end
 - HTML, CSS, TailwindCSS, JavaScript TypeScript
 - ReactJS e NextJS
 - WordPress
 
-## Back-end
+### Back-end
 - Node.js
 - Express.js
 - Api-rest
 
-## Banco de Dados
+### Banco de Dados
 - MySQL
 - PostgresSQL
 - MongoDB
 - API: Restful e GraphQL
 
-## DevOps e Ferramentas
+### DevOps e Ferramentas
 - Docker
 - Git e GitHub
 - Testes: Jest e Cypress
@@ -43,10 +43,6 @@ Desenvolvimento Full Stack
 Análise de Dados
 Marketing Digital
 Pesquisas e Análises
-
-- Contate-me no e-mail: matheus_giga@hotmail.com
-
-- Visite meu site de Portifólio: https://matheusqueiroz.dev.br/
 
 Compartilho com vocês uma frase que me marca: "Resistência está em si superar e ver, no negativo, o positivo sempre da melhor forma e, sendo assim, com os erros crescer, pois no amanhã está o brilho do sol."
 
@@ -84,3 +80,7 @@ Compartilho com vocês uma frase que me marca: "Resistência está em si superar
   <a href = "mailto:matheus_giga@hotmail.com"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/matheusgiga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+- Contate-me nos e-mails: matheus_giga@hotmail.com; matheusqueiroz@azworkcenter.com.br 
+
+- Visite meu site de Portifólio: https://matheusqueiroz.dev.br/
