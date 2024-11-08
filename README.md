@@ -1,12 +1,54 @@
-## Ei! Eu sou Matheus Queiroz
+Matheus Queiroz
 
-- Desenvolver Web Fullstack
+Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engenharia de Software. Fundador da AZ Work Center, onde desenvolvo soluções tecnológicas personalizadas para empresas. Apaixonado por criar aplicações web eficientes e escaláveis, com foco em qualidade e experiência do usuário.
+
+
+🎓 Formação
+
+Engenharia da Computação
+Especialização em Engenharia de Software
+Desenvolvimento Web Full Stack (Trybe)
+Residência em Software - Ciência de Dados (Em andamento)
+
+
+# Tecnologias e Ferramentas
+
+## Front-end
+- HTML, CSS, TailwindCSS, JavaScript TypeScript
+- ReactJS e NextJS
+- WordPress
+
+## Back-end
+- Node.js
+- Express.js
+- Api-rest
+
+## Banco de Dados
+- MySQL
+- PostgresSQL
+- MongoDB
+- API: Restful e GraphQL
+
+## DevOps e Ferramentas
+- Docker
+- Git e GitHub
+- Testes: Jest e Cypress
+
+
+Serviços 💼
+
+Desenvolvimento de Sites e Aplicações Web
+Consultoria em Tecnologia
+Desenvolvimento Full Stack
+Análise de Dados
+Marketing Digital
+Pesquisas e Análises
 
 - Contate-me no e-mail: matheus_giga@hotmail.com
 
 - Visite meu site de Portifólio: https://matheusqueiroz.dev.br/
 
-"Resistência está em si superar e ver, no negativo, o positivo sempre da melhor forma e, sendo assim, com os erros crescer, pois no amanhã está o brilho do sol."
+Compartilho com vocês uma frase que me marca: "Resistência está em si superar e ver, no negativo, o positivo sempre da melhor forma e, sendo assim, com os erros crescer, pois no amanhã está o brilho do sol."
 
 <div align="center">
   <a href="https://github.com/matheusqueiroz92">
