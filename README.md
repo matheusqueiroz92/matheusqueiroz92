@@ -1,7 +1,7 @@
 # Matheus Queiroz 👨‍💻
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-queiroz-dev-web)
-![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox-browser&logoColor=white)](https://www.matheusqueiroz.dev.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-queiroz-dev-web)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox-browser&logoColor=white)](https://www.matheusqueiroz.dev.br)
 
 ## Sobre mim 🚀
 
