@@ -61,12 +61,9 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 
 ## Serviços 💼
 
-- Desenvolvimento de Sites e Aplicações Web
+- Desenvolvimento de Sites e Aplicações Web Full Stack
 - Consultoria em Tecnologia
-- Desenvolvimento Full Stack
-- Análise de Dados
-- Marketing Digital
-- Pesquisas e Análises
+- Pesquisas e Análises de Dados
 
 
 ## GitHub Stats 📊
@@ -85,4 +82,4 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 
 
 
-⭐️ From [Matheus Queiroz](https://github.com/matheusqueiroz92)
+⭐️ By [Matheus Queiroz](https://github.com/matheusqueiroz92)
