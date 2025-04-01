@@ -62,7 +62,7 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 ## Serviços 💼
 
 - Desenvolvimento de Sites e Aplicações Web Full Stack
-- Consultoria em Tecnologia
+- Consultoria e Assessoria em Tecnologia
 - Pesquisas e Análises de Dados
 
 
@@ -75,11 +75,11 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 
 ## Contato 📫
 
-- 📧 E-mails: [matheus_giga@hotmail.com] [matheusqueiroz@azworkcenter.com.br] [gigamatheus@gmail.com]
+- 📧 E-mails: [matheusqueiroz@azworkcenter.com.br] [matheus_giga@hotmail.com] [gigamatheus@gmail.com]
 - 💼 LinkedIn: [Perfil](https://linkedin.com/in/matheus-queiroz-dev-web/)
 - 🌐 Site: [matheusqueiroz.dev.br](https://www.matheusqueiroz.dev.br)
 - 📱 WhatsApp: [(77) 98833-4370](https://web.whatsapp.com/send?phone=5577988334370&text=Ol%C3%A1%2C%20Matheus!%20Vi%20o%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20conversar%20contigo!)
 
 
 
-⭐️ By [Matheus Queiroz](https://github.com/matheusqueiroz92)
+© [Matheus Queiroz](https://github.com/matheusqueiroz92)
