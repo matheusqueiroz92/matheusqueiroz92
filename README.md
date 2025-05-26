@@ -16,7 +16,6 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 - Engenharia da Computação
 - Especialização em Engenharia de Software
 - Desenvolvimento Web Full Stack (Trybe)
-- Residência em Software - Ciência de Dados
 
 
 ## Tecnologias & Ferramentas 🛠️
