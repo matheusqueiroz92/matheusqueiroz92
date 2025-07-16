@@ -40,7 +40,7 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-054F77?style=flat&logo=sequelize&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F5C207?style=flat&logo=python&logoColor=white)
 
 ### Banco de Dados
 
