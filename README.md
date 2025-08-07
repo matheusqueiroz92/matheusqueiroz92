@@ -54,7 +54,7 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-4EA94B?style=flat&logo=nginx&logoColor=white)
-![Aws](https://img.shields.io/badge/Aws-F05032?style=flat&logo=git&logoColor=white)
+![Aws](https://img.shields.io/badge/Aws-F05032?style=flat&logo=aws&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
