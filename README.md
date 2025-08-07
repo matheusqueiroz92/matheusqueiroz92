@@ -1,7 +1,7 @@
 # Matheus Queiroz 👨‍💻
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-queiroz-dev-web)
-  [![Portfolio](https://img.shields.io/badge/Website-FF7139?style=flat&logo=website&logoColor=white)](https://www.matheusqueiroz.dev.br)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=website&logoColor=white)](https://www.matheusqueiroz.dev.br)
   [![E-mail](https://img.shields.io/badge/Email-990000?style=flat&logo=mailboxdotorg&logoColor=white)](mailto:matheus_giga@hotmail.com)
   [![WhatsApp](https://img.shields.io/badge/Whatsapp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5577988334370&text=Ol%C3%A1%2C%20Matheus!%20Vi%20o%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20conversar%20contigo!)
 
