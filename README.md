@@ -7,7 +7,7 @@
 
 ## Sobre mim 🚀
 
-Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engenharia de Software. Fundador da AZ Work Center, onde desenvolvo soluções tecnológicas personalizadas para empresas. Apaixonado por criar aplicações web eficientes e escaláveis, com foco em qualidade e experiência do usuário.
+Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engenharia de Software. Um dos fundadores e sócio da AZ Work Center, onde desenvolvo soluções tecnológicas personalizadas para empresas. Apaixonado por criar aplicações web eficientes e escaláveis, com foco em qualidade e experiência do usuário.
 
 "Resistência está em si superar e ver, no negativo, o positivo sempre da melhor forma e, sendo assim, com os erros crescer, pois no amanhã está o brilho do sol."
 
@@ -54,6 +54,7 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-4EA94B?style=flat&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/Pm2-6FD87B?style=flat&logo=pm2&logoColor=white)
 ![AWS](https://img.shields.io/badge/Aws-F05032?style=flat&logo=amazon&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
