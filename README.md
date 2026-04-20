@@ -13,9 +13,9 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 
 ### 🎓 Formação
 
-- Engenharia da Computação
-- Especialização em Engenharia de Software
-- Desenvolvimento Web Full Stack (Trybe)
+- Engenheiro da Computação
+- Especialista em Engenharia de Software
+- Desenvolvedor Web Full Stack
 
 
 ## Tecnologias & Ferramentas 🛠️
@@ -38,6 +38,8 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-0875FD8?style=flat&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-D8F5534?style=flat&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-054F77?style=flat&logo=sequelize&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F5C207?style=flat&logo=python&logoColor=white)
