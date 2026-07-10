@@ -7,7 +7,7 @@
 
 ## Sobre mim 🚀
 
-Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engenharia de Software. Um dos fundadores e sócio da AZ Work Center, onde desenvolvo soluções tecnológicas personalizadas para empresas. Apaixonado por criar aplicações web eficientes e escaláveis, com foco em qualidade e experiência do usuário.
+Desenvolvedor Full Stack e Engenheiro de Software. Atualmente concluindo uma pós-graduação em Engenharia de Software aplicada à IA.
 
 "Resistência está em si superar e ver, no negativo, o positivo sempre da melhor forma e, sendo assim, com os erros crescer, pois no amanhã está o brilho do sol."
 
@@ -30,6 +30,7 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-00A8FF?style=flat&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" />
 </div>
 
@@ -39,7 +40,8 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-0875FD8?style=flat&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-20232A?style=flat&logo=react&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-20232A?style=flat&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=flat&logo=drizzle&logoColor=green)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-054F77?style=flat&logo=sequelize&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F5C207?style=flat&logo=python&logoColor=white)
@@ -55,6 +57,7 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-000000?style=flat&logo=traefik&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-4EA94B?style=flat&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-BC785B?style=flat&logo=pm2&logoColor=white)
 ![AWS](https://img.shields.io/badge/Aws-F05032?style=flat&logo=amazon&logoColor=white)
@@ -64,7 +67,8 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 
 ## Serviços 💼
 
-- Desenvolvimento de Sites e Aplicações Web Full Stack
+- Desenvolvimento Web Full Stack
+- Automações com IA
 - Consultoria e Assessoria em Tecnologia
 - Pesquisas e Análises de Dados
 
@@ -78,7 +82,7 @@ Desenvolvedor Web Full Stack, Engenheiro da Computação e Especialista em Engen
 
 ## Contato 📫
 
-- 📧 E-mails: [matheusqueiroz@azworkcenter.com.br] [matheus_giga@hotmail.com] [gigamatheus@gmail.com]
+- 📧 E-mails: [gigamatheus@gmail.com] [matheusqueiroz@azworkcenter.com.br] [matheus_giga@hotmail.com]
 - 💼 LinkedIn: [Perfil](https://linkedin.com/in/matheus-queiroz-dev-web/)
 - 🌐 Site: [matheusqueiroz.dev.br](https://www.matheusqueiroz.dev.br)
 - 📱 WhatsApp: [(77) 98833-4370](https://web.whatsapp.com/send?phone=5577988334370&text=Ol%C3%A1%2C%20Matheus!%20Vi%20o%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20conversar%20contigo!)
