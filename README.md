@@ -56,7 +56,7 @@ Desenvolvedor Full Stack e Engenheiro de Software. Atualmente concluindo uma pó
 ### DevOps, Ferramentas e Testes
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=yellow)
 ![Traefik](https://img.shields.io/badge/Traefik-000000?style=flat&logo=traefik&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-4EA94B?style=flat&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-BC785B?style=flat&logo=pm2&logoColor=white)
